@@ -18,7 +18,7 @@ const routes: Routes = [
       },
       {
         path:'agregar',
-        component: AgregarComponent
+        component: AgregarComponent //dependiendo del path en el que esté
       },
       {
         path:'editar/:id',
